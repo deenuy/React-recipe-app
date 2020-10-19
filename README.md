@@ -41,7 +41,7 @@ The data is retrieved from EDAMAM recipe search API, a reliable source for disco
 
 ### Demo
 
-![Stock Demo](react-recipe-app/public/assets/React-recipe-app-demo.gif)
+![Stock Demo](public/assets/React-recipe-app-demo.gif)
 
 ## Credits:
 
