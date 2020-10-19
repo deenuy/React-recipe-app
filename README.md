@@ -25,6 +25,15 @@ The website will return a maximum of 10 recipes, ingredients, images and calorie
 
 The data is retrieved from EDAMAM recipe search API, a reliable source for discovering nutritious recipes.
 
+## Deployment:
+
+- Assuming that you have a background of node js and necessary setup information
+- Clone the git repository
+- From mac terminal/ git bash, navigate to react-recipe-app in your cloned repository
+- run
+  - npm install
+  - npm start
+
 ## Future Development:
 
 - Enhance the user experience for discovering stocks and commodities
