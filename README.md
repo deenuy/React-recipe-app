@@ -1,6 +1,6 @@
 # React-recipe-app
 
-This application is developed in a react js compoment and promise based design to search and discover food recipes based on thirdparty Recipe Search API (EDAMAM).
+This application is developed in a react js component and promise based design to search and discover food recipes based on thirdparty Recipe Search API (EDAMAM).
 
 ## User Story:
 
@@ -36,9 +36,8 @@ The data is retrieved from EDAMAM recipe search API, a reliable source for disco
 
 ## Future Development:
 
-- Enhance the user experience for discovering stocks and commodities
-- Integrate ML algorithms to recommend news to steer the user to decide to buy or sell the stocks
-- Provision for tagging the companies that you want to quickly search or track
+- Enhance the user experience for discovering recipies with ingredients, diets and calories
+- UI improvements
 
 ### Demo
 
