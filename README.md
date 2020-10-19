@@ -11,11 +11,11 @@ Hosted Url: https://deenuy.github.io/React-recipe-app/
 ## This repo contains:
 
 - README.md
-- react-recipe-app/src/components/Recipe.js
-- react-recipe-app/src/components/recipe.module.css
-- react-recipe-app/src/App.js
-- react-recipe-app/src/index.js
-- react-recipe-app/src/App.css for custom styling
+- src/components/Recipe.js
+- src/components/recipe.module.css
+- src/App.js
+- src/index.js
+- src/App.css for custom styling
 
 ## Usage:
 
